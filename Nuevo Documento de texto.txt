@@ -1,0 +1,2 @@
+pca.explained_variance_
+Quedarse en el 90%-95% de la variancia
