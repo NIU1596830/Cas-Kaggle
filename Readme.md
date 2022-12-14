@@ -1,5 +1,6 @@
 # Pràctica Kaggle APC UAB 2022-23
-### Nom: Raúl Villar Casino ### DATASET: Student Grade Prediction
+### Nom: Raúl Villar Casino 
+### DATASET: Student Grade Prediction
 ### URL: [kaggle](https://www.kaggle.com/datasets/dipam7/student-grade-prediction)
 ## Resum
 S'utilitza una base de dades proporcionada per la universitat de Minho, on s'han agafat mostres d'alumnes de dues escoles: Gabriel Pereira i Mousinho da Silveira.
